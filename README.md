@@ -26,7 +26,7 @@
 
 <div align="center">
   <h3> 🖤THANKS FOR VISIT MY GITHUB🖤 </h3>
-</div>## Hi there 👋
+</div>
 
 <!--
 **SEFAT-777/SEFAT-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
