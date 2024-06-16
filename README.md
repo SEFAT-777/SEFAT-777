@@ -1,7 +1,6 @@
 #[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=‎ㅤㅤASSALAMULAIKUM;WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=ㅤㅤㅤㅤㅤI+AM;ㅤㅤㅤSEFAT+SARKER)](https://git.io/typing-svg)
 
 ### TOTAL PROFILE VISITORS :
 
