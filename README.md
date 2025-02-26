@@ -42,9 +42,9 @@ Hi, I'm Sefat Sarker, an 18-year-old Python developer passionate about coding an
 
 Here are some of my favorite projects I've worked on:
 
-- **[Project 1](https://github.com/SEFAT-777/project-1)** 
-- **[Project 2](https://github.com/SEFAT-777/project-2)**
-- **[Project 3](https://github.com/SEFAT-777/project-3)**
+- **[Project 1](https://github.com/SEFAT-777/SEFAT)** 
+- **[Project 2](https://github.com/SEFAT-777/SEFAT-XD)**
+- **[Project 3](https://github.com/SEFAT-777/CRACK)**
 
 ---
 
