@@ -74,7 +74,7 @@ Here are some of my favorite projects I've worked on:
 ### 📫 **Let's Connect!**
 
 <p align="center">
-  <a href="[https://facebook.com/your-facebook-profile](https://www.facebook.com/sefat.sarker.777x)">
+  <a href="https://www.facebook.com/sefat.sarker.777x">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:sefatsarker480@gmail">
