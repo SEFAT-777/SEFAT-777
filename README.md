@@ -84,18 +84,5 @@ Here are some of my favorite projects I've worked on:
 
 ---
 
-### 👀 **Profile Visitors**
-
-<p align="center">
-  <a href="https://github.com/SEFAT-777">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=SEFAT-777.SEFAT-777" alt="Profile Visitors" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/SEFAT-777/SEFAT-777/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="center">Thanks for stopping by! 😄</p>
